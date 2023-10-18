@@ -1,11 +1,9 @@
-# 本仓库是 File4J 的文档仓库
+# 本仓库是 X File Storage 的文档仓库
 
-项目地址：https://github.com/dromara/file4j <br />
-项目地址：https://gitee.com/dromara/file4j <br />
+项目地址：https://github.com/dromara/x-file-storage <br />
+项目地址：https://gitee.com/dromara/x-file-storage <br />
 
 
-文档1：https://file4j.dromara.org <br />
-文档2：https://file4j.xuyanwu.cn <br />
+文档1：https://x-file-storage.dromara.org <br />
+文档2：https://x-file-storage.xuyanwu.cn <br />
 文档3：https://spring-file-storage.xuyanwu.cn <br />
-文档4：https://file4j.com <br />
-文档5：https://file4j.cn <br />
